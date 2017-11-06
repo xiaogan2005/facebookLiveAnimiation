@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "facebookLiveAnimiation/ViewController.swift"
+            timestampString = "531590891.646941"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "facebookLiveAnimiation.ViewController.prepareAni() -&gt; ()"
+                  moduleName = "facebookLiveAnimiation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruiguo/Documents/GitHub/Core-ML-Sample/facebookLiveAnimiation/facebookLiveAnimiation/ViewController.swift"
+                  timestampString = "531589238.422468"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "143">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in facebookLiveAnimiation.ViewController.prepareAni() -&gt; ()"
+                  moduleName = "facebookLiveAnimiation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruiguo/Documents/GitHub/Core-ML-Sample/facebookLiveAnimiation/facebookLiveAnimiation/ViewController.swift"
+                  timestampString = "531589238.425115"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
